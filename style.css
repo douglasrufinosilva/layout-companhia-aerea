@@ -1,0 +1,66 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+.container {
+  width: 626px;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+.container img {
+  margin: 69px auto 32px;
+}
+
+h1 {
+  color: #3F3D56;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  margin-bottom: 16px;
+  font-size: 32px;
+}
+
+p {
+  margin: auto;
+  font-size: 15px;
+  line-height: 22px;
+  color: #828282;
+  width: 540px;
+}
+
+p + p {
+  margin: 32px auto 59px;
+}
+
+strong {
+  color: #3F3D56;
+}
+
+.line {
+  height: 0;
+  border: 1px solid #ECEFF2;
+  margin-bottom: 16px;
+}
+
+#destiny {
+  color: #EE24FF;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 700;
+  color: #3F3D56;
+}
+
+a + a {
+  margin-left: 42px;
+}
